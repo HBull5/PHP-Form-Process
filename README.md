@@ -2,7 +2,7 @@
 
 ## Form Processing & Validation 
 
-1. Make sure you're loading form-process.js in the head of your HTML document ( sauce: https://github.com/HBull5/PHP-Form-Process  )
+1. Make sure you're loading form-process.js in the head of your HTML document
 2. Define a variable for your form ( e.g. `const form = document.querySelector( '#my-form' );` )
 3. Define a variable for the submit button ( e.g. `const submitBtn = document.querySelector( '#my-submit-btn' );` ) 
 4. Define a variable for the URL you want the form to post to ( this can be relative or absolute ) ( e.g. `const url = './inc/form-process.php';` )
