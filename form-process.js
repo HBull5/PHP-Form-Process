@@ -1,6 +1,7 @@
 /**
  * @author Harcourt 
  * @description Handles form submission via AJAX / validation / built to work with recaptcha v3 || v2
+ *
  * HOW TO USE 
  * ==========
  * 1) Make sure you're loading form-process.js in the head of your HTML document
